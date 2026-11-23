@@ -460,3 +460,7 @@ R__LOAD_LIBRARY(/home/piotrek/onnxruntime-linux-x64-1.31.1/lib/libonnxruntime.so
         c5->SaveAs("/home/piotrek/projekt_d/rozgrzewka/classfied/Cutflow.png");
 
     }
+
+
+    // jak wplywa avg_poss > 0.9 na probki same sign
+    // wydajnosc klasyfikatora
